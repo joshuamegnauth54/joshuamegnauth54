@@ -1,10 +1,6 @@
-# :scream_cat: I am...
-* :computer: A data scientist and general purpose programmer
-* :godmode: :video_game: A gamer
-* :penguin: A Linux/FreeBSD dork
-* :guitar: Not a JoJo reference
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-# :computer: Check this out
+# :godmode: Check this out
 * [Master's thesis](https://github.com/joshuamegnauth54/GamerDistributionThesis2020)
 * [READ: Read Engaging Awesome Documents](https://github.com/joshuamegnauth54/read-engaging-awesome-documents) - Collection of resources I like
 * [Python tutoring notes](https://github.com/joshuamegnauth54/data765-intro-python-tutoring)
